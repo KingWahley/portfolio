@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aad46337.css",
+    "main.js": "/static/js/main.158b8783.js",
+    "static/media/Nex.jpg": "/static/media/Nex.c09197c893e40809a234.jpg",
+    "static/media/wale.JPG": "/static/media/wale.6f02101ce5ec44b986ea.JPG",
+    "static/media/tellStory.png": "/static/media/tellStory.f9b9b9c025c2da252ab3.png",
+    "static/media/marvyAi.png": "/static/media/marvyAi.4a867661f4346576b2b6.png",
+    "static/media/geoGuide.png": "/static/media/geoGuide.d27e44bd6477a57909d1.png",
+    "static/media/address.png": "/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/quizzy.png": "/static/media/quizzy.a4fd30cc276fd982b652.png",
+    "static/media/phone.png": "/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/emojiFactory.png": "/static/media/emojiFactory.96f8c6bac6e93bbba88d.png",
+    "static/media/moon.png": "/static/media/moon.3bea3d398a25611d421b.png",
+    "static/media/contact.png": "/static/media/contact.6a6c4c5095fa578bc2a9.png",
+    "index.html": "/index.html",
+    "main.aad46337.css.map": "/static/css/main.aad46337.css.map",
+    "main.158b8783.js.map": "/static/js/main.158b8783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad46337.css",
+    "static/js/main.158b8783.js"
+  ]
+}
