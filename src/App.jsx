@@ -18,7 +18,7 @@ const App = () => {
         color: darkMode && "white",
       }}
     >
-      <Nav />
+      {/* <Nav /> */}
       <Toggle />
       <Intro />
       <About />

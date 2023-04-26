@@ -15,7 +15,11 @@ const Intro = () => {
               <div className="i-title-item">HTML</div>
               <div className="i-title-item">React</div>
               <div className="i-title-item">javaScript</div>
-              <div className="i-title-item">WordPress</div>
+              {/* <div className="i-title-item">WordPress</div>
+              <div className="i-title-item">FireBase</div>
+              <div className="i-title-item">Git</div>
+              <div className="i-title-item">Figma</div>
+              <div className="i-title-item">PSD to Html</div> */}
             </div>
           </div>
           <p className="i-desc">
