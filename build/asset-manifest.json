@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a36d7d62.css",
-    "main.js": "/static/js/main.82ccddf8.js",
+    "main.css": "/static/css/main.4566f222.css",
+    "main.js": "/static/js/main.85eb144f.js",
     "static/media/Nex.jpg": "/static/media/Nex.c09197c893e40809a234.jpg",
     "static/media/wale.JPG": "/static/media/wale.6f02101ce5ec44b986ea.JPG",
     "static/media/tellStory.png": "/static/media/tellStory.f9b9b9c025c2da252ab3.png",
     "static/media/marvyAi.png": "/static/media/marvyAi.4a867661f4346576b2b6.png",
     "static/media/geoGuide.png": "/static/media/geoGuide.d27e44bd6477a57909d1.png",
+    "static/media/proj2.JPG": "/static/media/proj2.282b63b7bb4fe6562746.JPG",
+    "static/media/space.png": "/static/media/space.8e038295d35cfd5b3647.png",
+    "static/media/blog.png": "/static/media/blog.0bc6c453629a3c8c4fc8.png",
     "static/media/address.png": "/static/media/address.a01cb8cc428702f30bec.png",
     "static/media/email.png": "/static/media/email.a49e015815e3ac6d2bd3.png",
     "static/media/sun.png": "/static/media/sun.f794832ad72b90c61eb7.png",
@@ -16,11 +19,11 @@
     "static/media/moon.png": "/static/media/moon.3bea3d398a25611d421b.png",
     "static/media/contact.png": "/static/media/contact.6a6c4c5095fa578bc2a9.png",
     "index.html": "/index.html",
-    "main.a36d7d62.css.map": "/static/css/main.a36d7d62.css.map",
-    "main.82ccddf8.js.map": "/static/js/main.82ccddf8.js.map"
+    "main.4566f222.css.map": "/static/css/main.4566f222.css.map",
+    "main.85eb144f.js.map": "/static/js/main.85eb144f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a36d7d62.css",
-    "static/js/main.82ccddf8.js"
+    "static/css/main.4566f222.css",
+    "static/js/main.85eb144f.js"
   ]
 }
